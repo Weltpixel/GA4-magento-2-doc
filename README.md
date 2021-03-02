@@ -1,0 +1,1 @@
+# GA4-magento-2-doc
